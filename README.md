@@ -1,4 +1,7 @@
-## Hi there 👋
+## My name is AhnTaeun
+## I'm 23 years old.
+## I'm from Pohang in South Korea
+## I'm currently studying Computer Engineering at Yeungnam University.
 
 <!--
 **TaeunAhn/TaeunAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
